@@ -1,7 +1,7 @@
 # Robert Andrew Stevenson
 
-Data scientist, forecasting and time series. Mechanical engineer by training,
-licensed Professional Engineer.
+Data scientist, forecasting and time series. Mechanical engineer and licensed
+Professional Engineer.
 
 Since 2020 I have built automated trading systems in Python, most recently an
 end-to-end data collection pipeline and machine-learning forecasting system
