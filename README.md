@@ -3,7 +3,7 @@
 Data scientist, forecasting and time series. Mechanical engineer and licensed
 Professional Engineer.
 
-Since 2020 I have built automated trading systems in Python, most recently an
+Since 2020 I have built automated trading systems, most recently an
 end-to-end data collection pipeline and machine-learning forecasting system
 for financial time series. That work is where I learned the hard problem is
 honest evaluation. The emphasis throughout has been leakage prevention,
