@@ -12,14 +12,18 @@ research and live execution.
 
 ## Public work
 
+- [bitcoin-volatility-forecast](https://github.com/RAStevenson/bitcoin-volatility-forecast)
+  forecasts Bitcoin's volatility for the next 24 hours, every day, with
+  eight models from a persistence baseline to an N-HiTS neural network.
+  Each forecast is a five-quantile band, committed to git before its
+  outcome by design and scored against what happened.
+
 - [survival-analysis-pipeline](https://github.com/RAStevenson/survival-analysis-pipeline)
   fits and evaluates any right-censored duration dataset. It fits an XGBoost
   accelerated-failure-time model against a Cox proportional hazards baseline
   on temporal folds and generates a report. Validated on synthetic data with
-  a known answer, then demonstrated on Chicago business licences and the
+  a known answer, then demonstrated on Chicago business licenses and the
   flchain clinical cohort.
-
-More repositories go public as they finish review.
 
 ## Contact
 
