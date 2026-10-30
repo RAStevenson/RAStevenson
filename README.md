@@ -25,6 +25,12 @@ research and live execution.
   a known answer, then demonstrated on Chicago business licenses and the
   flchain clinical cohort.
 
+- [crypto-sql-warehouse](https://github.com/RAStevenson/crypto-sql-warehouse)
+  is a PostgreSQL warehouse for crypto market data from the Coinbase API,
+  holding up to five timeframes with history back to 2020. It has an
+  append-only raw layer with a request log, a constraint-checked core, marts
+  built and tested with DBT, and an idempotent watermark-based loader.
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/robert-andrew-stevenson-pe-b7537a149/) | Edmond, Oklahoma
